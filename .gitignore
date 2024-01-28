@@ -1,0 +1,13 @@
+./data
+data/
+data/*
+runs/
+./runs/
+./runs/*
+patch_output/
+./patch_output/
+./patch_output/*
+./models/
+./models/*
+models/
+*pt
