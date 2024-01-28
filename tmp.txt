@@ -1,0 +1,4 @@
+第一个 accum=6
+第二个 原版gaussian
+第三个 accum=30
+第四个 使用average_depth accum=6
